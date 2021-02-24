@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaishav</h1>
 <h3 align="center">Google Crowdsource influencer and Coding Block Super Hero</h3>
 
+![animation](here_link_of_any_animation_you_want)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaishav06&label=Profile%20views&color=0e75b6&style=flat" alt="shaishav06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaishav06" alt="shaishav06" /></a> </p>
