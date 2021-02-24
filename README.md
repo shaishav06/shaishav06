@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shaishav</h1>
 <h3 align="center">Google Crowdsource influencer and Coding Block Super Hero</h3>
 
+![animation](https://user-images.githubusercontent.com/54361799/108963079-a8467700-769f-11eb-902f-0339e2c0f07e.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaishav06&label=Profile%20views&color=0e75b6&style=flat" alt="shaishav06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaishav06" alt="shaishav06" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shaishavsurati" target="blank"><img src="https://img.shields.io/twitter/follow/shaishavsurati?logo=twitter&style=for-the-badge" alt="shaishavsurati" /></a> </p>
+
+<h3> About me</h3>
 
 - 🔭 I’m currently working on [factal_tree](https://github.com/shaishav06/factal_tree)
 
@@ -24,6 +27,10 @@
 <p align="left">
 <a href="https://twitter.com/shaishavsurati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shaishavsurati" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaishavsurati0699" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaishavsurati0699" height="30" width="40" /></a>
+<a href="https://instagram.com/im_shaishavsurati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="im_shaishavsurati" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shaishavsurati06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shaishavsurati06" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@shaishavsurati06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shaishavsurati06" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shaishavsurati06/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shaishavsurati06/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
