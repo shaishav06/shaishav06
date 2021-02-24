@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaishav</h1>
 <h3 align="center">Google Crowdsource influencer and Coding Block Super Hero</h3>
 
-<iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaishav06&label=Profile%20views&color=0e75b6&style=flat" alt="shaishav06" /> </p>
 
