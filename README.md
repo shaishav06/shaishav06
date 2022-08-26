@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shaishav Surati! </h1>
 <br>
-<h3 align="center">Google Crowdsource influencer and Coding Block Super Hero 😎️</h3>
+<h3 align="center">Google Crowdsource influencer 😎️ and Coding Block Super Hero 🚀️</h3>
 
 ---
 
