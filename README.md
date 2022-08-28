@@ -165,3 +165,10 @@
 <br/>
           
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shaishav06&show_icons=true&locale=en&layout=compact" alt="shaishav06" /></div>
+
+---
+
+<p align="center">
+      <b>Take a look at my Projects and lets work together.</b><br><br>
+     <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
+  </p>
