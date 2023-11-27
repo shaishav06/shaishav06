@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shaishav Surati! </h1>
 <br>
-<h3 align="center">Founder and CEO @ChaitanyaAi 😎️, TechSpeaker 🎤, Building @InfinityAi Community 🚀️</h3>
+<h3 align="center">Founder and CEO @ChaitanyaAi 😎️, TechSpeaker 🎤, Mentor 🤩 , Building @InfinityAi Community 🚀️</h3>
 
 ---
 
@@ -10,15 +10,17 @@
 
 <h3> About me:</h3>
 
-- 🔭 I’m currently working on **DataScience and Machine-learning and Cloud**.
+- 🔭 I’m currently working on **DataScience, Machine-learning and Cloud**.
 
 - 🌱 I’m currently learning everything 🤣
+  
+- Always ready to collaborate and build new things 🚀️. 
 
 - 🤯️ Hackathon enthusiast.
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaishav06](https://github.com/shaishav06)
 
-- 💬 Ask me about **Python, Java, JavaScript, C++**
+- 💬 Ask me about **GenAI, Computer Vision, Data-Science, LLM, Cloud Computing, Entrepreneur, etc**
 
 - 📫 How to reach me **shaishavsurati06@gmail.com**
 
