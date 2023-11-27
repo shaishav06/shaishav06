@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shaishav Surati! </h1>
 <br>
-<h3 align="center">Google Crowdsource influencer 😎️ and Coding Block Super Hero 🚀️</h3>
+<h3 align="center">Founder and CEO @ChaitanyaAi 😎️, TechSpeaker 🎤, Building @InfinityAi Community 🚀️</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 
 <h3> About me:</h3>
 
-- 🔭 I’m currently working on **DataScience and Machine-learning**.
+- 🔭 I’m currently working on **DataScience and Machine-learning and Cloud**.
 
 - 🌱 I’m currently learning everything 🤣
 
