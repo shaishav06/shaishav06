@@ -10,7 +10,7 @@
 
 <h3> About me:</h3>
 
-- 🔭 I’m currently working on **DataScience, Machine-learning and Cloud**.
+- 🔭 I’m currently working on **GenAi, DataScience, Machine-learning and Cloud**.
 
 - 🌱 I’m currently learning everything 🤣
   
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **shaishavsurati06@gmail.com**
 
-- ⚡ Fun fact **I love Open Source & Solve DSA Question as my passion.**
+- ⚡ Fun fact **I love Open Source**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shaishavsurati0699/](https://www.linkedin.com/in/shaishavsurati0699/)
 
