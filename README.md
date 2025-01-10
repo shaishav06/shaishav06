@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/shaishavsurati" target="blank"><img src="https://img.shields.io/twitter/follow/shaishavsurati?logo=twitter&style=for-the-badge" alt="shaishavsurati" /></a>&nbsp
-  <a href="https://www.linkedin.com/in/shaishavsurati0699"><img src="https://img.shields.io/badge/-shaishav%20surati-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/shaishavsurati"><img src="https://img.shields.io/badge/-shaishav%20surati-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
   <a href="mailto:shaishavsurati06@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shaishavsurati06@gmail.com" />
   </a>&nbsp  
