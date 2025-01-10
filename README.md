@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I love Open Source**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shaishavsurati0699/](https://www.linkedin.com/in/shaishavsurati0699/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shaishavsurati0699/](https://www.linkedin.com/in/shaishavsurati/)
 
 ---
 
