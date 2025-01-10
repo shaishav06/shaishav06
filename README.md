@@ -10,13 +10,11 @@
 
 <h3> About me:</h3>
 
-- 🔭 I’m currently working on **GenAi, DataScience, Machine-learning and Cloud**.
+- 🔭 I’m currently working on **GenAi, MLOps, LLMOps, DataScience, Machine-learning and Cloud**.
 
 - 🌱 I’m currently learning everything 🤣
   
 - Always ready to collaborate and build new things 🚀️. 
-
-- 🤯️ Hackathon enthusiast.
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaishav06](https://github.com/shaishav06)
 
@@ -174,3 +172,7 @@
       <b>Take a look at my Projects and lets work together.</b><br><br>
      <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
   </p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=shaishav06&color=green)  [![Website](https://img.shields.io/website?label=shaishavsurati&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/shaishavsurati/) [![Twitter Follow](https://img.shields.io/twitter/follow/shaishavsurati?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/shaishavsurati)
