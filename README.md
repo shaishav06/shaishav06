@@ -4,7 +4,9 @@
 
 ---
 
+<p align="center">
 ![animation](https://user-images.githubusercontent.com/54361799/108963079-a8467700-769f-11eb-902f-0339e2c0f07e.gif)
+</p>
 
 ---
 
