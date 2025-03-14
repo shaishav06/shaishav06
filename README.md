@@ -171,7 +171,7 @@
 ---
 
 <p align="center">
-      <b>Take a look at my Projects and lets work together.</b><br><br>
+      <b>Take a look at my Projects, and let's work together.</b><br><br>
      <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
   </p>
 
